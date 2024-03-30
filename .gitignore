@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask specific
+instance/
+.webassets-cache
+
+# If you have database files
+*.sqlite
+
+# Ngrok - ngrok oluşturduğu dosyaları ve ayarları (eğer varsa)
+/ngrok
+ngrok_*.log
+
+# Environment directory
+venv/
+*.venv
+venv.bak/
+*.virtualenv
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/

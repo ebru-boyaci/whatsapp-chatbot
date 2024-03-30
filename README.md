@@ -65,5 +65,4 @@ Step 2: Providing the Ngrok URL to Twilio WhatsApp Sandbox
 
 Step 3: Testing with WhatsApp
 * Now that everything is set up, send a message from your personal WhatsApp number to the Sandbox and observe how your Flask application processes this message.# whatsapp-openai-chatbot
-# whatsapp-openai-chatbot
-# whatsapp-chatbot
+

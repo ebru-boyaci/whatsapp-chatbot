@@ -3,6 +3,7 @@
 Hi everyone, this is repository for my personal demo project on connecting Twilio and OpenAI to provide answers to all the users questions using OpenAI GPT-3. This is written in `Python` and served with `Flask`. This bot can only handle:
 * text messgaes
 
+
 ### What you will need
 There are couple of things that you need before you get started following this repository.
 * OpenAI API key, since it is open to all, you can create an account [here](https://openai.com/) and access the key.
